@@ -1,0 +1,1220 @@
+{
+  "version": 1,
+  "locale": "en_US",
+  "platform": "4.4.3",
+  "metadata": {
+    "appmode": "quarto-static",
+    "primary_rmd": "index.qmd",
+    "primary_html": null,
+    "content_category": null,
+    "has_parameters": false
+  },
+  "quarto": {
+    "version": "1.5.57",
+    "engines": ["markdown"]
+  },
+  "packages": null,
+  "files": {
+    ".RData": {
+      "checksum": "88596be8d001975c42d1a650730464cc"
+    },
+    "_book/index.html": {
+      "checksum": "3850e36d443d55ed3f3b071a13229eee"
+    },
+    "_book/intro.html": {
+      "checksum": "f8b3911a044e1bdb4c438c4d41cb0936"
+    },
+    "_book/references.html": {
+      "checksum": "46f9af63461790ef841ed2adb9b93c65"
+    },
+    "_book/search.json": {
+      "checksum": "e80ee90961b76548341c4cbf1e0f5540"
+    },
+    "_book/site_libs/bootstrap/bootstrap-icons.css": {
+      "checksum": "7368407d15110275bb7af49476ae70f2"
+    },
+    "_book/site_libs/bootstrap/bootstrap-icons.woff": {
+      "checksum": "dfd2a6bd06f9dd7437ee67673cd9c447"
+    },
+    "_book/site_libs/bootstrap/bootstrap.min.css": {
+      "checksum": "4223376fb1bfd04fe5a09adf23043fa7"
+    },
+    "_book/site_libs/bootstrap/bootstrap.min.js": {
+      "checksum": "7ccd9d390d31af98110f74f842ea9b32"
+    },
+    "_book/site_libs/clipboard/clipboard.min.js": {
+      "checksum": "15f52a1ee547f2bdd46e56747332ca2d"
+    },
+    "_book/site_libs/quarto-html/anchor.min.js": {
+      "checksum": "a58f4bdbf86e8ae057af9131b5b1bcfd"
+    },
+    "_book/site_libs/quarto-html/popper.min.js": {
+      "checksum": "ad6c106f3ba17d5a54d8053a4c4899ca"
+    },
+    "_book/site_libs/quarto-html/quarto-syntax-highlighting.css": {
+      "checksum": "49bff82b9355f257417faaaa77dd1607"
+    },
+    "_book/site_libs/quarto-html/quarto.js": {
+      "checksum": "e2f4880ce6c3de9af6a724b53acf8607"
+    },
+    "_book/site_libs/quarto-html/tippy.css": {
+      "checksum": "ebd6f8ce46a677e1a4f5f8a8317109a9"
+    },
+    "_book/site_libs/quarto-html/tippy.umd.min.js": {
+      "checksum": "d828775275749701b48bd9d958814111"
+    },
+    "_book/site_libs/quarto-nav/headroom.min.js": {
+      "checksum": "ace0360e576db9b6e7df48ac68ddbbf4"
+    },
+    "_book/site_libs/quarto-nav/quarto-nav.js": {
+      "checksum": "cc1e8a49be77e980214283541a7a83fe"
+    },
+    "_book/site_libs/quarto-search/autocomplete.umd.js": {
+      "checksum": "b59163c2956837f826dda162ca88da6c"
+    },
+    "_book/site_libs/quarto-search/fuse.min.js": {
+      "checksum": "de7d60e4a6881074275feca14b84a49d"
+    },
+    "_book/site_libs/quarto-search/quarto-search.js": {
+      "checksum": "517d77d4dcdb6b96527b54b721f4077c"
+    },
+    "_book/summary.html": {
+      "checksum": "c019b2b910485311f21f75dbb13cc06a"
+    },
+    "_extensions/mcanouil/highlight-text/_extension.yml": {
+      "checksum": "88f13279c3d48eba23c0b49fcbbde664"
+    },
+    "_extensions/mcanouil/highlight-text/highlight-text.lua": {
+      "checksum": "94e66bf3213fd474e55f42beeea40894"
+    },
+    "_extensions/mcanouil/highlight-text/LICENSE": {
+      "checksum": "3af21d8aa3082dd4445f6bb41f644322"
+    },
+    "_quarto.yml": {
+      "checksum": "ea690d89e7d3b9c52126f85d0702a51f"
+    },
+    "analisis_data_bmkg.R": {
+      "checksum": "47e8036eeaec01ef908fa7de14287464"
+    },
+    "analisis_data_prof_entin.qmd": {
+      "checksum": "a184f3bb42a5a64397fda6b9117ef89d"
+    },
+    "artikel_prof_entin_froude.R": {
+      "checksum": "06070368fb398c4168bab6888fc0237a"
+    },
+    "BMKG Daily Temperature Data .xlsx": {
+      "checksum": "f56db0229daef570657e0342c1c2600d"
+    },
+    "bootstrap regresi.R": {
+      "checksum": "3eea4afc49bb9696d9472e27763ac8cd"
+    },
+    "contoh-pembahasan-soal-vektor.pdf": {
+      "checksum": "9e33ff7b87623947afbec1c73c446d77"
+    },
+    "contoh pembahasan soal vektor.html": {
+      "checksum": "0c9bfd02bfb3c1f63eaf8ef23e5fabc5"
+    },
+    "contoh pembahasan soal vektor.qmd": {
+      "checksum": "53e5bbe6a448202964ad059458dba2be"
+    },
+    "contoh_datawarga.csv": {
+      "checksum": "d6f7409164acbda93ee18d234890dc6d"
+    },
+    "cover.png": {
+      "checksum": "308012df3fa962ae61c7114806331a72"
+    },
+    "data debit karangdoro.R": {
+      "checksum": "a65ac4e2a83c3fddfec3b2d1db0aac19"
+    },
+    "Data Kategori Kerusaakan dan Froude Prof Entin 15 Juli 2025.xlsx": {
+      "checksum": "b1a01b6feb8b7284706b05756847e576"
+    },
+    "data_bmkg_16_tahun/2006/Agu 2006.xlsx": {
+      "checksum": "dcfe5284187d4945d30376be1bbfc9c0"
+    },
+    "data_bmkg_16_tahun/2006/Apr 2006.xlsx": {
+      "checksum": "4abbf7cecc25c5edb7150a540cea5338"
+    },
+    "data_bmkg_16_tahun/2006/Des 2006.xlsx": {
+      "checksum": "9f048f79729502136965237f06b627eb"
+    },
+    "data_bmkg_16_tahun/2006/Feb 2006.xlsx": {
+      "checksum": "1f088b07a6a6c6fd6c3c5a6fe2e96b54"
+    },
+    "data_bmkg_16_tahun/2006/Jan 2006.xlsx": {
+      "checksum": "ee2449005530a2a94ebc9524bb3b90a6"
+    },
+    "data_bmkg_16_tahun/2006/Jul 2007.xlsx": {
+      "checksum": "9075f814d39598810918e7c0305cfbc8"
+    },
+    "data_bmkg_16_tahun/2006/Jun 2006.xlsx": {
+      "checksum": "2c1eb7fe710b117954350660bcb0ac8c"
+    },
+    "data_bmkg_16_tahun/2006/Mar 2006.xlsx": {
+      "checksum": "91d97b1110a3848c930011f43390268b"
+    },
+    "data_bmkg_16_tahun/2006/Mei 2006.xlsx": {
+      "checksum": "6fe2741ea6191482dba783fea2a61d99"
+    },
+    "data_bmkg_16_tahun/2006/Nov 2006.xlsx": {
+      "checksum": "f5a27a3f78d71e8edfa4af740f8b6b4c"
+    },
+    "data_bmkg_16_tahun/2006/Okt 2006.xlsx": {
+      "checksum": "0766e81cf26e1360744d1af66285d53a"
+    },
+    "data_bmkg_16_tahun/2006/Sep 2006.xlsx": {
+      "checksum": "32ce6efa82aaeb321d7149c361de585a"
+    },
+    "data_bmkg_16_tahun/2007/Agu 2007.xlsx": {
+      "checksum": "48d74830a9ea5e2fc315953198d90c56"
+    },
+    "data_bmkg_16_tahun/2007/Apr 2007.xlsx": {
+      "checksum": "150d8761e180adb0e569e8fc35c3ae50"
+    },
+    "data_bmkg_16_tahun/2007/Des 2007.xlsx": {
+      "checksum": "b055a320fcec047a4327a76ef68abb4b"
+    },
+    "data_bmkg_16_tahun/2007/Feb 2007.xlsx": {
+      "checksum": "83951100af7fa60f70b3e34c4f57fe74"
+    },
+    "data_bmkg_16_tahun/2007/Jan 2007.xlsx": {
+      "checksum": "c823a6fed844f0031648ca1c804b04bb"
+    },
+    "data_bmkg_16_tahun/2007/Jul 2007.xlsx": {
+      "checksum": "4c474446537a0775f6a61ff165f89011"
+    },
+    "data_bmkg_16_tahun/2007/Jun 2007.xlsx": {
+      "checksum": "d974380052cef885aa19ff3e761b40a3"
+    },
+    "data_bmkg_16_tahun/2007/Mar 2007.xlsx": {
+      "checksum": "e1d7ef1139c7d53a6be7161b549880d5"
+    },
+    "data_bmkg_16_tahun/2007/Mei 2007.xlsx": {
+      "checksum": "c89e603be5d9164273726d09e0a70df4"
+    },
+    "data_bmkg_16_tahun/2007/Nov 2007.xlsx": {
+      "checksum": "04cf0619cb13decfa6e207338673aaa7"
+    },
+    "data_bmkg_16_tahun/2007/Okt 2007.xlsx": {
+      "checksum": "78ace5c665e8470360aa0e721c2ee9d1"
+    },
+    "data_bmkg_16_tahun/2007/Sep 2007.xlsx": {
+      "checksum": "b72d2b32f35c3d742bf6165d17166739"
+    },
+    "data_bmkg_16_tahun/2008/Agu 2008.xlsx": {
+      "checksum": "f2ce0c2ebdcb83994a876d2e4fd54d1f"
+    },
+    "data_bmkg_16_tahun/2008/Apr 2008.xlsx": {
+      "checksum": "0bd0fc0ccb3a2e5ad6de300ced7c4ab5"
+    },
+    "data_bmkg_16_tahun/2008/Des 2008.xlsx": {
+      "checksum": "959fdc1f015a5941feaa4f930ce5bece"
+    },
+    "data_bmkg_16_tahun/2008/Feb 2008.xlsx": {
+      "checksum": "521262cc58642603ae0998e11de1175b"
+    },
+    "data_bmkg_16_tahun/2008/Jan 2008.xlsx": {
+      "checksum": "d390cffc60e3b82f240765f8db12b6d4"
+    },
+    "data_bmkg_16_tahun/2008/Jul 2008.xlsx": {
+      "checksum": "5468bdca6834c617633683bbb97f4ca5"
+    },
+    "data_bmkg_16_tahun/2008/Jun 2008.xlsx": {
+      "checksum": "6f5a62fc1b75c898c9ea7d5300055eb7"
+    },
+    "data_bmkg_16_tahun/2008/Mar 2008.xlsx": {
+      "checksum": "7e728254ee4313a7ee25a82d7a36aa4d"
+    },
+    "data_bmkg_16_tahun/2008/Mei 2008.xlsx": {
+      "checksum": "869b17c48ae2277d1ce76c6cee61a91f"
+    },
+    "data_bmkg_16_tahun/2008/Nov 2008.xlsx": {
+      "checksum": "018d1cb8dcf896d06d7d4920788da5c2"
+    },
+    "data_bmkg_16_tahun/2008/Okt 2008.xlsx": {
+      "checksum": "604246f88c6cb1292d86f199711d5c96"
+    },
+    "data_bmkg_16_tahun/2008/Sep 2008.xlsx": {
+      "checksum": "654593b64989d3e9084ab486c866fa86"
+    },
+    "data_bmkg_16_tahun/2009/Agu 2009.xlsx": {
+      "checksum": "5f86ca5be5fe94a014b7fd7cb6d20d82"
+    },
+    "data_bmkg_16_tahun/2009/Apr 2009.xlsx": {
+      "checksum": "fd40d5410cd9e04b663f51e1844a3ddb"
+    },
+    "data_bmkg_16_tahun/2009/Des 2009.xlsx": {
+      "checksum": "3bb48cb06751fc8e2fb641b583cef74f"
+    },
+    "data_bmkg_16_tahun/2009/Feb 2009.xlsx": {
+      "checksum": "a20f17ce0bf0c0ab5f6bde63c8484014"
+    },
+    "data_bmkg_16_tahun/2009/Jan 2009.xlsx": {
+      "checksum": "caf05c2fd2cd79e94afbf3f8cf067c13"
+    },
+    "data_bmkg_16_tahun/2009/Jul 2009.xlsx": {
+      "checksum": "3d829f22ecd91fcb27d36f8d7c7c3993"
+    },
+    "data_bmkg_16_tahun/2009/Jun 2009.xlsx": {
+      "checksum": "f60cd44c80d2cf4433d02431f7b3a80a"
+    },
+    "data_bmkg_16_tahun/2009/Mar 2009.xlsx": {
+      "checksum": "8c43985ab430d165e460b7470e68c11e"
+    },
+    "data_bmkg_16_tahun/2009/Mei 2009.xlsx": {
+      "checksum": "473123cdbe5847e32803da6b51ed4923"
+    },
+    "data_bmkg_16_tahun/2009/Nov 2009.xlsx": {
+      "checksum": "4b1f0057cc051b0c11149cace46591a1"
+    },
+    "data_bmkg_16_tahun/2009/Okt 2009.xlsx": {
+      "checksum": "e2074efdd52d5da664fe3e455de2ecf4"
+    },
+    "data_bmkg_16_tahun/2009/Sep 2009.xlsx": {
+      "checksum": "7f3dc2ed4974f5a5735f42eb3d89beaa"
+    },
+    "data_bmkg_16_tahun/2010/Agu 2010.xlsx": {
+      "checksum": "03c800d01ddaa7ee15422b293ee76d2f"
+    },
+    "data_bmkg_16_tahun/2010/Apr 2010.xlsx": {
+      "checksum": "1df92d3b6a8d8d93dbbba5cb7f23f724"
+    },
+    "data_bmkg_16_tahun/2010/Des 2010.xlsx": {
+      "checksum": "36345048af44f12492373911863aa7a0"
+    },
+    "data_bmkg_16_tahun/2010/Feb 2010.xlsx": {
+      "checksum": "918570fe2bf04cde10da242d307f92d9"
+    },
+    "data_bmkg_16_tahun/2010/Jan 2010.xlsx": {
+      "checksum": "74c096f646f166d7b302a265b53ea1dc"
+    },
+    "data_bmkg_16_tahun/2010/Jul 2010.xlsx": {
+      "checksum": "6c60bd0283399d359ffc2b508b5b21c6"
+    },
+    "data_bmkg_16_tahun/2010/Jun 2010.xlsx": {
+      "checksum": "d4803d162fb0b2dd34d098556fd12c7a"
+    },
+    "data_bmkg_16_tahun/2010/Mar 2010.xlsx": {
+      "checksum": "a35caf8de90f124c2419c7e27fbbaf10"
+    },
+    "data_bmkg_16_tahun/2010/Mei 2010.xlsx": {
+      "checksum": "85df87128a4e5c3280619c2071c664be"
+    },
+    "data_bmkg_16_tahun/2010/Nov 2010.xlsx": {
+      "checksum": "2b17331089f31acb3814957d0d5d94e4"
+    },
+    "data_bmkg_16_tahun/2010/Okt 2010.xlsx": {
+      "checksum": "cedfe782aace61fbc55649fa19b77d1e"
+    },
+    "data_bmkg_16_tahun/2010/Sep 2010.xlsx": {
+      "checksum": "73a977aa5484ed270f300736d93d0784"
+    },
+    "data_bmkg_16_tahun/2011/Agu 2011.xlsx": {
+      "checksum": "1bf496783e4ca1cdf15de8f9a71c34fe"
+    },
+    "data_bmkg_16_tahun/2011/Apr 2011.xlsx": {
+      "checksum": "238d0ddf0880421bd0680b297a32336c"
+    },
+    "data_bmkg_16_tahun/2011/Des 2011.xlsx": {
+      "checksum": "317dc0ff5dc96ec7ea5b18b25b0d656f"
+    },
+    "data_bmkg_16_tahun/2011/Feb 2011.xlsx": {
+      "checksum": "e95aa223cdc3f6e9fb4879f41475a576"
+    },
+    "data_bmkg_16_tahun/2011/Jan 2011.xlsx": {
+      "checksum": "e3be064737f036046a833bb51cf3a402"
+    },
+    "data_bmkg_16_tahun/2011/Jul 2011.xlsx": {
+      "checksum": "d2a957683064434bb3d8e5d5e72e3ee6"
+    },
+    "data_bmkg_16_tahun/2011/Jun 2011.xlsx": {
+      "checksum": "00de1e33d4b744431658476f21e44728"
+    },
+    "data_bmkg_16_tahun/2011/Mar 2011.xlsx": {
+      "checksum": "24a3761c2cbb0922c1b0ce394df7025d"
+    },
+    "data_bmkg_16_tahun/2011/Mei 2011.xlsx": {
+      "checksum": "ce7421f682d3ecf93cec71dcbd278411"
+    },
+    "data_bmkg_16_tahun/2011/Nov 2011.xlsx": {
+      "checksum": "951e3f1178c741be879708fa34c28731"
+    },
+    "data_bmkg_16_tahun/2011/Okt 2011.xlsx": {
+      "checksum": "a439fe4da652854d4c59f0557e0124a3"
+    },
+    "data_bmkg_16_tahun/2011/Sep 2011.xlsx": {
+      "checksum": "ba36aaf7a5d05ebfdf1466701d55ff73"
+    },
+    "data_bmkg_16_tahun/2012/Agu 2012.xlsx": {
+      "checksum": "c3bec5729ce9126ff3e44e824fd3f7b0"
+    },
+    "data_bmkg_16_tahun/2012/Apr 2012.xlsx": {
+      "checksum": "b9eb6dd943bcc1fdb3ca1fda485304b7"
+    },
+    "data_bmkg_16_tahun/2012/Des 2012.xlsx": {
+      "checksum": "1c94f0eb3a9672605ce19aaf30dbdae7"
+    },
+    "data_bmkg_16_tahun/2012/Feb 2012.xlsx": {
+      "checksum": "4c9556d8036bef5ecb5fc7733bd44972"
+    },
+    "data_bmkg_16_tahun/2012/Jan 2012.xlsx": {
+      "checksum": "29f592be0e0536967ba04365cecfdbd2"
+    },
+    "data_bmkg_16_tahun/2012/Jul 2012.xlsx": {
+      "checksum": "b7f9885152c252fcc8ee573c305f90e6"
+    },
+    "data_bmkg_16_tahun/2012/Jun 2012.xlsx": {
+      "checksum": "c57e329a973d2b553da82072515f8128"
+    },
+    "data_bmkg_16_tahun/2012/Mar 2012.xlsx": {
+      "checksum": "f9cf50877f36cb60f794b493a609f792"
+    },
+    "data_bmkg_16_tahun/2012/Mei 2012.xlsx": {
+      "checksum": "229e2c38a7da08709e5d37a57f3c14e5"
+    },
+    "data_bmkg_16_tahun/2012/Nov 2012.xlsx": {
+      "checksum": "a7d5c79d95e963317a5515de8cf51b48"
+    },
+    "data_bmkg_16_tahun/2012/Okt 2012.xlsx": {
+      "checksum": "780dcb5df73dcd2836c9447a40fcf2e8"
+    },
+    "data_bmkg_16_tahun/2012/Sep 2012.xlsx": {
+      "checksum": "4e15e27913727cf4f3cf499451a9a799"
+    },
+    "data_bmkg_16_tahun/2013/Agu 2013.xlsx": {
+      "checksum": "0616011adb31016fc82ee840e46e63e9"
+    },
+    "data_bmkg_16_tahun/2013/Apr 2013.xlsx": {
+      "checksum": "2565331b2f32c2eaa5429b04f189f36a"
+    },
+    "data_bmkg_16_tahun/2013/Des 2013.xlsx": {
+      "checksum": "048b598b36306126d4115e05c6078140"
+    },
+    "data_bmkg_16_tahun/2013/Feb 2013.xlsx": {
+      "checksum": "cda1510ce6d8e7f565f962ec3c0b3df5"
+    },
+    "data_bmkg_16_tahun/2013/Jan 2013.xlsx": {
+      "checksum": "793a70694320688ac50f5491b379c68e"
+    },
+    "data_bmkg_16_tahun/2013/Jul 2013.xlsx": {
+      "checksum": "f1beb7eb3f33537769a1e03d64365ecb"
+    },
+    "data_bmkg_16_tahun/2013/Jun 2013.xlsx": {
+      "checksum": "185615986eb52314c89227d449e94cea"
+    },
+    "data_bmkg_16_tahun/2013/Mar 2013.xlsx": {
+      "checksum": "80cf76399daa00474fd616d74f3a7d89"
+    },
+    "data_bmkg_16_tahun/2013/Mei 2013.xlsx": {
+      "checksum": "b9ab14c73428192453028e9585ac42d4"
+    },
+    "data_bmkg_16_tahun/2013/Nov 2013.xlsx": {
+      "checksum": "23612ccc42dd4d8cb95abff558578281"
+    },
+    "data_bmkg_16_tahun/2013/Okt 2013.xlsx": {
+      "checksum": "71be8934e1eb39599f78cf3abe2eaf21"
+    },
+    "data_bmkg_16_tahun/2013/Sep 2013.xlsx": {
+      "checksum": "0a4b7c1f0eb53aa325b18d626811e34c"
+    },
+    "data_bmkg_16_tahun/2014/Agu 2014.xlsx": {
+      "checksum": "3ddd83955cec3d486fd44508d16f2bd0"
+    },
+    "data_bmkg_16_tahun/2014/Apr 2014.xlsx": {
+      "checksum": "e1c857adf44f8e7cb8722bff3e83c5d9"
+    },
+    "data_bmkg_16_tahun/2014/Des 2014.xlsx": {
+      "checksum": "969333948896d4f515e0b1f2cbfb9aff"
+    },
+    "data_bmkg_16_tahun/2014/Feb 2014.xlsx": {
+      "checksum": "f85fb20a40ce0c914203bd28745bba82"
+    },
+    "data_bmkg_16_tahun/2014/Jan 2014.xlsx": {
+      "checksum": "2950cb4a35588e75122bcb4561d8bc87"
+    },
+    "data_bmkg_16_tahun/2014/Jul 2014.xlsx": {
+      "checksum": "2f650e3cbefeb731844b15dffa438a97"
+    },
+    "data_bmkg_16_tahun/2014/Jun 2014.xlsx": {
+      "checksum": "7776792096499e1b7b7cf43f98e8a172"
+    },
+    "data_bmkg_16_tahun/2014/Mar 2014.xlsx": {
+      "checksum": "05c9b9732bf26488bca30a248550b40e"
+    },
+    "data_bmkg_16_tahun/2014/Mei 2014.xlsx": {
+      "checksum": "f82ba4b0520c78b38ad1560bdb83b607"
+    },
+    "data_bmkg_16_tahun/2014/Nov 2014.xlsx": {
+      "checksum": "81d77f8504abdfe143e2a664b26a7133"
+    },
+    "data_bmkg_16_tahun/2014/Okt 2014.xlsx": {
+      "checksum": "f9c93e49a5dce0339a6234af94bb5590"
+    },
+    "data_bmkg_16_tahun/2014/Sep 2014.xlsx": {
+      "checksum": "6bd075748cd0161347c871049cd5c531"
+    },
+    "data_bmkg_16_tahun/2015/Agu 2015.xlsx": {
+      "checksum": "5521bb7848993a99d66488c12912b39e"
+    },
+    "data_bmkg_16_tahun/2015/Apr 2015.xlsx": {
+      "checksum": "8b88d2cbc193c7d697629c648a469a41"
+    },
+    "data_bmkg_16_tahun/2015/Des 2015.xlsx": {
+      "checksum": "db6afdc76624ab7c6c25ca6371f34b33"
+    },
+    "data_bmkg_16_tahun/2015/Feb 2015.xlsx": {
+      "checksum": "4430c95a026f4b68e9f9762adf46fb20"
+    },
+    "data_bmkg_16_tahun/2015/Jan 2015.xlsx": {
+      "checksum": "eef18e4adbcf52b8b5958c390afb9445"
+    },
+    "data_bmkg_16_tahun/2015/Jul 2015.xlsx": {
+      "checksum": "06d499d42aefbefc28bc61f59b80c0b7"
+    },
+    "data_bmkg_16_tahun/2015/Jun 2015.xlsx": {
+      "checksum": "d2363556991dd89142c7dfb8abc43bfd"
+    },
+    "data_bmkg_16_tahun/2015/Mar 2015.xlsx": {
+      "checksum": "4d64d6e9253ef8515e1bb19eb75aacaa"
+    },
+    "data_bmkg_16_tahun/2015/Mei 2015.xlsx": {
+      "checksum": "5597592a6f15960aa11bf917c76fadc3"
+    },
+    "data_bmkg_16_tahun/2015/Nov 2015.xlsx": {
+      "checksum": "17908471c82a441a2e5bb003b2d17cf7"
+    },
+    "data_bmkg_16_tahun/2015/Okt 2015.xlsx": {
+      "checksum": "d81d3538bd4c489e29c4a20ca48e690e"
+    },
+    "data_bmkg_16_tahun/2015/Sep 2015.xlsx": {
+      "checksum": "71d1ed1c7033ca810bcde767d6d65aa9"
+    },
+    "data_bmkg_16_tahun/2016/Agu 2016.xlsx": {
+      "checksum": "e7b8889c8dc8dc3ddc9393724397a640"
+    },
+    "data_bmkg_16_tahun/2016/Apr 2016.xlsx": {
+      "checksum": "92262e4a304891e504b8561731bdc905"
+    },
+    "data_bmkg_16_tahun/2016/Des 2016.xlsx": {
+      "checksum": "f3f7d50c97dcc42b27fa679c6d1531a9"
+    },
+    "data_bmkg_16_tahun/2016/Feb 2016.xlsx": {
+      "checksum": "59a094a434ab9df2508135af9d0dc05c"
+    },
+    "data_bmkg_16_tahun/2016/Jan 2016.xlsx": {
+      "checksum": "e52e880ca6759f66dfcfb36b03bbffab"
+    },
+    "data_bmkg_16_tahun/2016/Jul 2016.xlsx": {
+      "checksum": "0f7f71f029a8fe5e68d5c1a26de0c640"
+    },
+    "data_bmkg_16_tahun/2016/Jun 2016.xlsx": {
+      "checksum": "e2207f4ba7136ad94121e01abc445b8e"
+    },
+    "data_bmkg_16_tahun/2016/Mar 2016.xlsx": {
+      "checksum": "932bc021c1558950916bae3cd9ffb9ed"
+    },
+    "data_bmkg_16_tahun/2016/Mei 2016.xlsx": {
+      "checksum": "1e47b9d7187cfce9830cfea22f308d0b"
+    },
+    "data_bmkg_16_tahun/2016/Nov 2016.xlsx": {
+      "checksum": "329faec5b12e65beb7d18e97a43bae57"
+    },
+    "data_bmkg_16_tahun/2016/Okt 2016.xlsx": {
+      "checksum": "5769ddf9e810924e72491a8027565e16"
+    },
+    "data_bmkg_16_tahun/2016/Sep 2016.xlsx": {
+      "checksum": "930e3383b1ca49135020cdb626979672"
+    },
+    "data_bmkg_16_tahun/2017/Agu 2017.xlsx": {
+      "checksum": "1e968b399752389bafeb7d72729d5186"
+    },
+    "data_bmkg_16_tahun/2017/Apr 2017.xlsx": {
+      "checksum": "a9c3a8b56be1d16d1bb28f841a5124a1"
+    },
+    "data_bmkg_16_tahun/2017/Des 2017.xlsx": {
+      "checksum": "ddfd91c7a3b524416c6201e9f931d0e9"
+    },
+    "data_bmkg_16_tahun/2017/Feb 2017.xlsx": {
+      "checksum": "dbe43cac5610ff48787abc82a0a08385"
+    },
+    "data_bmkg_16_tahun/2017/Jan 2017.xlsx": {
+      "checksum": "6210b7403b7d48d59da0fd4eff20dee7"
+    },
+    "data_bmkg_16_tahun/2017/Jul 2017.xlsx": {
+      "checksum": "e847e1208ce52e78340d82a18f7b80fc"
+    },
+    "data_bmkg_16_tahun/2017/Jun 2017.xlsx": {
+      "checksum": "049edcd9a51a04e662e5364e71b6389f"
+    },
+    "data_bmkg_16_tahun/2017/Mar 2017.xlsx": {
+      "checksum": "c98d8987b8f5535545a8b015f886d931"
+    },
+    "data_bmkg_16_tahun/2017/Mei 2017.xlsx": {
+      "checksum": "7ca4d2326f1dbeb0a340071feab2b2ba"
+    },
+    "data_bmkg_16_tahun/2017/Nov 2017.xlsx": {
+      "checksum": "8dac4e1ef42a9c645d383aee83c227b2"
+    },
+    "data_bmkg_16_tahun/2017/Okt 2017.xlsx": {
+      "checksum": "284b4eb434b0439d2e6f73740b24a79e"
+    },
+    "data_bmkg_16_tahun/2017/Sep 2017.xlsx": {
+      "checksum": "17c811ff723785d206c1701e62999078"
+    },
+    "data_bmkg_16_tahun/2018/Agu 2018.xlsx": {
+      "checksum": "f5a0a1b83fc84ef85cf63d34a78b78f6"
+    },
+    "data_bmkg_16_tahun/2018/Apr 2018.xlsx": {
+      "checksum": "f0885673d81d29d4b18e8a4779fec00e"
+    },
+    "data_bmkg_16_tahun/2018/Des 2018.xlsx": {
+      "checksum": "58a68d3ae9fa07ab30b02d6889039c39"
+    },
+    "data_bmkg_16_tahun/2018/Feb 2018.xlsx": {
+      "checksum": "eeabd6d8e7f5a89db963f83a708d46d3"
+    },
+    "data_bmkg_16_tahun/2018/Jan 2018.xlsx": {
+      "checksum": "70985234820be08e309bce6fbb450bb9"
+    },
+    "data_bmkg_16_tahun/2018/Jul 2018.xlsx": {
+      "checksum": "c08ea2504043f8de491afe9e265c32a0"
+    },
+    "data_bmkg_16_tahun/2018/Jun 2018.xlsx": {
+      "checksum": "48442e11cc728d8c6a701ff139807a28"
+    },
+    "data_bmkg_16_tahun/2018/Mar 2018.xlsx": {
+      "checksum": "188e1b78e0c20ffcb6971f7786bec6eb"
+    },
+    "data_bmkg_16_tahun/2018/Mei 2018.xlsx": {
+      "checksum": "d08682e8e12b18dd9361536154e7b56a"
+    },
+    "data_bmkg_16_tahun/2018/Nov 2018.xlsx": {
+      "checksum": "559713de1c78a596361360e5d327a171"
+    },
+    "data_bmkg_16_tahun/2018/Okt 2018.xlsx": {
+      "checksum": "e6110a7cc3618e8e748bb44a6187c31f"
+    },
+    "data_bmkg_16_tahun/2018/Sep 2018.xlsx": {
+      "checksum": "fe358caf1961f826f3166aef64e193ac"
+    },
+    "data_bmkg_16_tahun/2019/Agu 2019.xlsx": {
+      "checksum": "7a14ffe859a474a0bf74c89e734d8465"
+    },
+    "data_bmkg_16_tahun/2019/Apr 2019.xlsx": {
+      "checksum": "030cc4563f8234c78fa3aea052b84222"
+    },
+    "data_bmkg_16_tahun/2019/Des 2019.xlsx": {
+      "checksum": "dd0436134ef8b76fadfe42011191ec28"
+    },
+    "data_bmkg_16_tahun/2019/Feb 2019.xlsx": {
+      "checksum": "24f326d698553fbbe8fd4c4d582c2682"
+    },
+    "data_bmkg_16_tahun/2019/Jan 2019.xlsx": {
+      "checksum": "f9f47cfbc9ee85929582139adb83b245"
+    },
+    "data_bmkg_16_tahun/2019/Jul 2019.xlsx": {
+      "checksum": "73917333bd671d0bfe7e4dbe6e83735c"
+    },
+    "data_bmkg_16_tahun/2019/Jun 2019.xlsx": {
+      "checksum": "d25b2f473e3f51eb0ea328185e723e40"
+    },
+    "data_bmkg_16_tahun/2019/Mar 2019.xlsx": {
+      "checksum": "04c7ece261cd369e0a214ae278c0dd87"
+    },
+    "data_bmkg_16_tahun/2019/Mei 2019.xlsx": {
+      "checksum": "ac59f8f87a8076c2a3952a182d91f4b1"
+    },
+    "data_bmkg_16_tahun/2019/Nov 2019.xlsx": {
+      "checksum": "0498056b54b356ce12928f81a7b8017e"
+    },
+    "data_bmkg_16_tahun/2019/Okt 2019.xlsx": {
+      "checksum": "2159ad8683c4ede38023509d41a7f2d8"
+    },
+    "data_bmkg_16_tahun/2019/Sep 2019.xlsx": {
+      "checksum": "9ab3940e53535ad807057fe86312c31a"
+    },
+    "data_bmkg_16_tahun/2020/Agu 2020.xlsx": {
+      "checksum": "cf2d493a4c52fa0faac446a4a3bf175b"
+    },
+    "data_bmkg_16_tahun/2020/Apr 2020.xlsx": {
+      "checksum": "0e7466fe719ab0d7d9b2be5477ed0aa3"
+    },
+    "data_bmkg_16_tahun/2020/Des 2020.xlsx": {
+      "checksum": "ad5119b2aacf5d1d0516c97d8c904c50"
+    },
+    "data_bmkg_16_tahun/2020/Feb 2020.xlsx": {
+      "checksum": "57aa52f6383f133215e12082560d34f7"
+    },
+    "data_bmkg_16_tahun/2020/Jan 2020.xlsx": {
+      "checksum": "57bce5bd39c7db803ecc5c2638140ba2"
+    },
+    "data_bmkg_16_tahun/2020/Jul 2020.xlsx": {
+      "checksum": "f63c6bb540bd40ac36299fae9d2864c6"
+    },
+    "data_bmkg_16_tahun/2020/Jun 2020.xlsx": {
+      "checksum": "0c5f3cc7569dfa1c1b33e23f7a43bc4e"
+    },
+    "data_bmkg_16_tahun/2020/Mar 2020.xlsx": {
+      "checksum": "10fd5502e7062babc6f29926e291df40"
+    },
+    "data_bmkg_16_tahun/2020/Mei 2020.xlsx": {
+      "checksum": "e2ed8639562d971d4418be8efb7f97e5"
+    },
+    "data_bmkg_16_tahun/2020/Nov 2020.xlsx": {
+      "checksum": "1ccf9da1f283a1e9650c2759f82d811e"
+    },
+    "data_bmkg_16_tahun/2020/Okt 2020.xlsx": {
+      "checksum": "c6b54e07461fe460d6f1b8b389a0f1e0"
+    },
+    "data_bmkg_16_tahun/2020/Sep 2020.xlsx": {
+      "checksum": "1b9caddc85ab6e7e670e643a745f1fdc"
+    },
+    "data_bmkg_16_tahun/2021/Agu 2021.xlsx": {
+      "checksum": "6066223fda38ad2db296f2ba6452a1f6"
+    },
+    "data_bmkg_16_tahun/2021/Apr 2021.xlsx": {
+      "checksum": "08f6f7555099cb95e0473c3d0552a799"
+    },
+    "data_bmkg_16_tahun/2021/Des 2021.xlsx": {
+      "checksum": "6bc39a0574767eef0886819da6c7be8c"
+    },
+    "data_bmkg_16_tahun/2021/Feb 2021.xlsx": {
+      "checksum": "c5f733cb53a7ee3c005fe14a30838e78"
+    },
+    "data_bmkg_16_tahun/2021/Jan 2021.xlsx": {
+      "checksum": "355e663d468edad95362c51c7848794c"
+    },
+    "data_bmkg_16_tahun/2021/Jul 2021.xlsx": {
+      "checksum": "38e8a7e1b526d767206de3ae7c4fb089"
+    },
+    "data_bmkg_16_tahun/2021/Jun 2021.xlsx": {
+      "checksum": "5ff82d6b45645701b4b3e9fcddf7b765"
+    },
+    "data_bmkg_16_tahun/2021/Mar 2021.xlsx": {
+      "checksum": "cebf683070cff9305a0fba25c6e2b6eb"
+    },
+    "data_bmkg_16_tahun/2021/Mei 2021.xlsx": {
+      "checksum": "c9023a5e96139aef862a14a88d8e49b4"
+    },
+    "data_bmkg_16_tahun/2021/Nov 2021.xlsx": {
+      "checksum": "e9a01fe988e4835f1c86d460ebdb31f8"
+    },
+    "data_bmkg_16_tahun/2021/Okt 2021.xlsx": {
+      "checksum": "f13018d2929464b990fcdc32cae34402"
+    },
+    "data_bmkg_16_tahun/2021/Sept 2021.xlsx": {
+      "checksum": "670d3a8b7b588895c4e395398d03ac9f"
+    },
+    "data_do_bod_unstats.txt": {
+      "checksum": "79631544567b1b3b5f5b187d6ce34c79"
+    },
+    "dataku.rds": {
+      "checksum": "3ef7580161f47959f7ed54b0601e413d"
+    },
+    "datawarga.csv": {
+      "checksum": "f1b618e3c36f42c97c75e152cae89d25"
+    },
+    "diskusi_regresi_ordinal.html": {
+      "checksum": "a953dab3e2a4b5c1cb8d60a2abc690f4"
+    },
+    "diskusi_regresi_ordinal.qmd": {
+      "checksum": "c94e0225b064afebee8fc23ab859ad55"
+    },
+    "empat_metode_sampling.html": {
+      "checksum": "ea3bc4250898586e3a070ade1bb70267"
+    },
+    "empat_metode_sampling.qmd": {
+      "checksum": "87f54f0baff6d7aba2fa4f07a424e596"
+    },
+    "gambar4.png": {
+      "checksum": "e52416513885ec7d3c134f0d5dd537be"
+    },
+    "gambar6.png": {
+      "checksum": "feab24ce509a27f1fa66f2390b691ba2"
+    },
+    "gambar7.png": {
+      "checksum": "76f313aaad363e5e552e8924fcef42b1"
+    },
+    "index.qmd": {
+      "checksum": "ec084ace4d2a5461b966fe9b906188bf"
+    },
+    "intro.qmd": {
+      "checksum": "e514ad799b2b10ced9d02b36ca26bbd2"
+    },
+    "jk.csv": {
+      "checksum": "56daa627ea016fbbe325ee09177a0978"
+    },
+    "kalibaru.png": {
+      "checksum": "08eacb0abc1288436b6098e6b43d01fd"
+    },
+    "karangdoro.txt": {
+      "checksum": "fab971adad8fd6dc64127a1b8573dcfc"
+    },
+    "karangdoro1980.htm": {
+      "checksum": "26b510b4d55f5b0e0fc3063fe423fc96"
+    },
+    "karangdoro1980_files/_AttachMixin.js": {
+      "checksum": "35089fe06ae5d53f85836f410b38baa6"
+    },
+    "karangdoro1980_files/_base.js": {
+      "checksum": "ed728f87efdd17981dbc6e082d03a43e"
+    },
+    "karangdoro1980_files/_RadioButtonMixin.js": {
+      "checksum": "bcc23e49ad6f666f2985c24911233ca4"
+    },
+    "karangdoro1980_files/_RangeSliderMixin.js": {
+      "checksum": "085ca93098d16c4223d47374280c31f7"
+    },
+    "karangdoro1980_files/_TemplatedMixin.js": {
+      "checksum": "b8924ed288b777e0e7d60bb409723338"
+    },
+    "karangdoro1980_files/_ViewportResizeDeBounce.js": {
+      "checksum": "f53b87edb346715f6d3c40a2f7a6d3ff"
+    },
+    "karangdoro1980_files/AbstractFilter.js": {
+      "checksum": "90f4e6997dd08765cefcceb4af362e1e"
+    },
+    "karangdoro1980_files/AbstractSingleInputFilter.js": {
+      "checksum": "24b69d89c42be0304d6394160b0da484"
+    },
+    "karangdoro1980_files/all.css": {
+      "checksum": "4555eb8b3aa10c9ad9b6db95a12ac460"
+    },
+    "karangdoro1980_files/autotable.js": {
+      "checksum": "8fe9843c3fe0e70ca302491317c2d439"
+    },
+    "karangdoro1980_files/Button.js": {
+      "checksum": "fe06d40a752f25a75551aa8136599599"
+    },
+    "karangdoro1980_files/ChangePasswordDialog.js": {
+      "checksum": "fb8d2c6881f798562fb872acea228fe3"
+    },
+    "karangdoro1980_files/ClassificationManager.js": {
+      "checksum": "808aa6162eefd456f654afe448d3b3a2"
+    },
+    "karangdoro1980_files/CommonThemes.js": {
+      "checksum": "c2a53c7c5a463f0b58f61d31329f17e6"
+    },
+    "karangdoro1980_files/config.js": {
+      "checksum": "e0e148088c6dabd491c95f4bf4a726ad"
+    },
+    "karangdoro1980_files/css.js": {
+      "checksum": "97fbc8148c364e7fe8dea4fd0527b06b"
+    },
+    "karangdoro1980_files/css_002.js": {
+      "checksum": "c4923ba0df79f3a38e2235429d5c7ae9"
+    },
+    "karangdoro1980_files/custom.css": {
+      "checksum": "2ec7a16fea383102d5ffd3e5a82871c3"
+    },
+    "karangdoro1980_files/DeferredList.js": {
+      "checksum": "235e0117899cb98451a9809c263229d7"
+    },
+    "karangdoro1980_files/dojo.js": {
+      "checksum": "158b89507d6dc4b0422f4897b77c703b"
+    },
+    "karangdoro1980_files/dojoConfig.js": {
+      "checksum": "9e73aa09add26c39a636ff1b6fc3f509"
+    },
+    "karangdoro1980_files/download.js": {
+      "checksum": "193bd90c98fd6460340ae75fa94be1b3"
+    },
+    "karangdoro1980_files/entities.js": {
+      "checksum": "abc93152adfd6a7b81f98b8f30405f08"
+    },
+    "karangdoro1980_files/external.css": {
+      "checksum": "a3733ec703bfc7130be202dd1556f111"
+    },
+    "karangdoro1980_files/FilterBar.js": {
+      "checksum": "35d0dee642524fcd669b52f3afc04794"
+    },
+    "karangdoro1980_files/FilterBar_002.js": {
+      "checksum": "d12d720b908e9541809f21625a96cb22"
+    },
+    "karangdoro1980_files/FilterBarClientSide.js": {
+      "checksum": "e97507962e49c4d8bac56f7a915eef9b"
+    },
+    "karangdoro1980_files/FilterBoolean.js": {
+      "checksum": "6d075108d5c557a94fb80df142e4a78b"
+    },
+    "karangdoro1980_files/FilterCheckbox.js": {
+      "checksum": "fa0edad329ba45a281b371f8c7d6cba9"
+    },
+    "karangdoro1980_files/FilterDateRange.js": {
+      "checksum": "dd557fa281d5a49c0db0b5880d4f519e"
+    },
+    "karangdoro1980_files/FilterFactory.js": {
+      "checksum": "6dc9cd5792f721b253e47610d4b982f0"
+    },
+    "karangdoro1980_files/FilterFullText.js": {
+      "checksum": "e7cb9cf26ce76df7acc7f124abbeef63"
+    },
+    "karangdoro1980_files/FilterMultiselectSelectbox.js": {
+      "checksum": "5242c8314fc763815898fcdfa3846a99"
+    },
+    "karangdoro1980_files/FilterPeriod.js": {
+      "checksum": "c42182dc6a821cb3ac12b48dcdc96433"
+    },
+    "karangdoro1980_files/FilterSelectbox.js": {
+      "checksum": "9cbff8ae911ebf46a5cc3cf150b9e120"
+    },
+    "karangdoro1980_files/FilterSlideValue.js": {
+      "checksum": "4cb3e7658750abeca130698c395b7de7"
+    },
+    "karangdoro1980_files/fontDefinitions.js": {
+      "checksum": "7b6ba5a567946f4356dc621754ef36b4"
+    },
+    "karangdoro1980_files/fonts.css": {
+      "checksum": "a9d5c54b85500c12cc89cba3eb608a8f"
+    },
+    "karangdoro1980_files/fx.js": {
+      "checksum": "3b58b5882feab67b1a2dacc661c08f60"
+    },
+    "karangdoro1980_files/GraphContainer.js": {
+      "checksum": "d4a7a7cba352cc2af4ca93fef9856263"
+    },
+    "karangdoro1980_files/HorizontalRangeSlider.js": {
+      "checksum": "fdcf7567920f289b154c1e6580dcfd73"
+    },
+    "karangdoro1980_files/HorizontalSlider.js": {
+      "checksum": "088aba4fafd902077312741b2589cc74"
+    },
+    "karangdoro1980_files/html2canvas.js": {
+      "checksum": "e3da8a9adacdb403827e4979c7e35f3f"
+    },
+    "karangdoro1980_files/icon_support.js": {
+      "checksum": "e467e096957e5c80de0cecfad0950005"
+    },
+    "karangdoro1980_files/jquery.js": {
+      "checksum": "4b57cf46dc8cb95c4cca54afc85e9540"
+    },
+    "karangdoro1980_files/jsoneditor.css": {
+      "checksum": "890fd78fb355fb69e577d7ecad7be01c"
+    },
+    "karangdoro1980_files/jsoneditor.js": {
+      "checksum": "414b62541a56f751cadc8904fe797b6f"
+    },
+    "karangdoro1980_files/jspdf.js": {
+      "checksum": "53ffff2b15e961f30009d42d7830b18b"
+    },
+    "karangdoro1980_files/layer.js": {
+      "checksum": "a39523a4a2bb9b78fa790b50ca66e8e2"
+    },
+    "karangdoro1980_files/layer_002.js": {
+      "checksum": "1c24f6efcdb389693781e8a006ca57c1"
+    },
+    "karangdoro1980_files/layer_003.js": {
+      "checksum": "405721c361e3eeeff3146e5e9adcd475"
+    },
+    "karangdoro1980_files/layer_004.js": {
+      "checksum": "0d960e99d499ec327d7aca2d144c2ce4"
+    },
+    "karangdoro1980_files/layer_005.js": {
+      "checksum": "e222ea65f1dd14612e843a756566e220"
+    },
+    "karangdoro1980_files/layer_006.js": {
+      "checksum": "2256c5cf21485248febd1e29249c1624"
+    },
+    "karangdoro1980_files/layer_007.js": {
+      "checksum": "32e394224c66fda2927ea8345f2dc47c"
+    },
+    "karangdoro1980_files/layer_008.js": {
+      "checksum": "6ee55a80617f35f36a722cc1f3a1fb17"
+    },
+    "karangdoro1980_files/layer_009.js": {
+      "checksum": "cd383482bb87a4f292c90fbdf452b47a"
+    },
+    "karangdoro1980_files/layer_en.js": {
+      "checksum": "5c48012712d0838ada1b9249b8ef4f2b"
+    },
+    "karangdoro1980_files/layer_en_002.js": {
+      "checksum": "2cecb508f9cfd260c613db919e80b792"
+    },
+    "karangdoro1980_files/layer_en_003.js": {
+      "checksum": "866fae38d08bfbab073e40174c918437"
+    },
+    "karangdoro1980_files/layer_en_004.js": {
+      "checksum": "b8db20c31bdee37543acd0d5c4fc1b2d"
+    },
+    "karangdoro1980_files/layer_en_005.js": {
+      "checksum": "9c60c650663247fc9c9aa1a515dc0c7e"
+    },
+    "karangdoro1980_files/layer_en_006.js": {
+      "checksum": "769527a34e2e7faefc01c8500227251b"
+    },
+    "karangdoro1980_files/layer_en_007.js": {
+      "checksum": "d18f6cf9320d0e16cb7efeb8c48fb44d"
+    },
+    "karangdoro1980_files/layer_en_008.js": {
+      "checksum": "2add94fb33fb2ce08474ac20b577bbcf"
+    },
+    "karangdoro1980_files/light.css": {
+      "checksum": "154d80f71192aac40708e4e0e27712e5"
+    },
+    "karangdoro1980_files/lite.js": {
+      "checksum": "e36f518e73787d4c8ffee26a64f716d4"
+    },
+    "karangdoro1980_files/load-css.js": {
+      "checksum": "c6a3adc6afadec04a32901995517efd3"
+    },
+    "karangdoro1980_files/load-css_002.js": {
+      "checksum": "9c015fc38bdbe55b53fdfba21b99b09c"
+    },
+    "karangdoro1980_files/lodash.js": {
+      "checksum": "7e5733eca8de449cd0d4c5b904a1403b"
+    },
+    "karangdoro1980_files/main.js": {
+      "checksum": "ae2d639baeaa3dfcc8b425ee57b5b59b"
+    },
+    "karangdoro1980_files/moment-timezone-with-data.js": {
+      "checksum": "7929098e3b103235f61d89d8981d676f"
+    },
+    "karangdoro1980_files/moment-with-locales.js": {
+      "checksum": "14a68777051cee67368f9cbc72331a9e"
+    },
+    "karangdoro1980_files/NodeList-traverse.js": {
+      "checksum": "bd49225dd77989f84ec75261714fe0ad"
+    },
+    "karangdoro1980_files/ol-controls.css": {
+      "checksum": "a8b8f3866e191df8832a588cae046273"
+    },
+    "karangdoro1980_files/ol-ext.min.css": {
+      "checksum": "9962013209ce2784f3c61207936913b2"
+    },
+    "karangdoro1980_files/ol-ext.min.js": {
+      "checksum": "a116c578106727fd6df337d0414c08c9"
+    },
+    "karangdoro1980_files/ol-selectFeaturesTool.css": {
+      "checksum": "2356b0d94c888deb28076afcdf3960bd"
+    },
+    "karangdoro1980_files/ol-selectFeaturesTool.js": {
+      "checksum": "94b17e9c81fef24b78c50d569a0feb5f"
+    },
+    "karangdoro1980_files/ol.css": {
+      "checksum": "4090cfae2f04d8dfb998f642b92fc272"
+    },
+    "karangdoro1980_files/ol.js": {
+      "checksum": "4bded0be790f7d7e7ae5c7e901cd0ffc"
+    },
+    "karangdoro1980_files/ol3-controls.js": {
+      "checksum": "197b29f5859a4274958d89819b0b99be"
+    },
+    "karangdoro1980_files/ol3-layerswitcher.css": {
+      "checksum": "b9cad7e835f12e049a621ce340caa696"
+    },
+    "karangdoro1980_files/ol3-layerswitcher.js": {
+      "checksum": "8ce6b854f45190c38e4fb5695d475f25"
+    },
+    "karangdoro1980_files/portal-spinner.css": {
+      "checksum": "e157fbd50dfce2ccca118ce2920ac87f"
+    },
+    "karangdoro1980_files/PortalSupport.js": {
+      "checksum": "65d82122ab52656e29f4fd9832ce30a9"
+    },
+    "karangdoro1980_files/RadioButton.js": {
+      "checksum": "7267a26114f1fbd55cc6f29d9fb4fc00"
+    },
+    "karangdoro1980_files/ScopeTopicSupport.js": {
+      "checksum": "549374d83eff8d97bb1a0ddc099ff89e"
+    },
+    "karangdoro1980_files/tsClient.js": {
+      "checksum": "98a2d1665f24aabbcd060a4f11ffedfa"
+    },
+    "karangdoro1980_files/tsClient_002.js": {
+      "checksum": "abedf111e516c44e76e231111a6d9274"
+    },
+    "karangdoro1980_files/underscore.js": {
+      "checksum": "701f7b4cb31a5ef5cf08b47f4f200684"
+    },
+    "karangdoro1980_files/underscore_002.js": {
+      "checksum": "dbb4a07a22e51155c7809de649bc1af5"
+    },
+    "karangdoro1980_files/v4-shims.css": {
+      "checksum": "fc0ad5c80125b9181a17350e0e46fde7"
+    },
+    "karangdoro1980_files/Viewport.js": {
+      "checksum": "d18fad13fc685296703d6438299665ee"
+    },
+    "karangdoro1980_files/WidgetDialog.js": {
+      "checksum": "9b1b3e70b4a5bb9f8b9607941fe815da"
+    },
+    "karangdoro1980_files/XSSRequestHandler.js": {
+      "checksum": "9a4b1e9928bce222cb336c8312bd0e8a"
+    },
+    "kuesioner srono.xlsx": {
+      "checksum": "2da9af4d92589756d8848b158ecb6552"
+    },
+    "kuis_matematika_1_3_sept_2025.docx": {
+      "checksum": "79b7308c604a57fd7782278d44c873ad"
+    },
+    "kuis_matematika_1_3_sept_2025.html": {
+      "checksum": "79b7308c604a57fd7782278d44c873ad"
+    },
+    "kuis_matematika_1_3_sept_2025.pdf": {
+      "checksum": "9ff647b2586d6fdb8f181811e7cf7a22"
+    },
+    "kuis_matematika_1_3_sept_2025.qmd": {
+      "checksum": "734df561b87061ca0e8edb330b479404"
+    },
+    "kuliah_tekling_brawijaya.R": {
+      "checksum": "d16f5e15054a92d4c0423a2e37a5b69b"
+    },
+    "newdata_analysis_froude_prof_entin.R": {
+      "checksum": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "pengenalan R/contoh_datawarga.csv": {
+      "checksum": "861dd74215719ff2fd5760c22205356f"
+    },
+    "pengenalan R/Ini Tabelku.csv": {
+      "checksum": "5ce2c4b9329244eaceddeedad67ff481"
+    },
+    "pengenalan R/mengenal beberapa struktur data di R.html": {
+      "checksum": "bc645955115e49f6f24858c2e73eb021"
+    },
+    "pengenalan R/mengenal beberapa struktur data di R.qmd": {
+      "checksum": "14affa29b1a09425b8a1dc16ac3a0d93"
+    },
+    "pengenalan R/rosada_1 mengenal beberapa struktur data di R.html": {
+      "checksum": "2800ceb1ed17217b7bfadc0e1f2d26a2"
+    },
+    "pengenalan R/rosada_2 mengenal kondisional dan loop di R.html": {
+      "checksum": "1d62a944154157f4ffbe655f16fbad19"
+    },
+    "pengenalan R/rosada_2 mengenal kondisional dan loop di R.qmd": {
+      "checksum": "c7752731487427b826cc29912f95d28d"
+    },
+    "pengenalan R/Tabel Penduduk Sanggar.rds": {
+      "checksum": "4784ac9a51a60435e63047b93a4facea"
+    },
+    "pengepasan kurva dan KS test.R": {
+      "checksum": "bccd5b71b380d307c995a885a61c28ca"
+    },
+    "penyajian_data_sederhana_satu_variabel.html": {
+      "checksum": "752b1d13c3fc63be15f724b3aa43308b"
+    },
+    "penyajian_data_sederhana_satu_variabel.qmd": {
+      "checksum": "83dc14a0e73812bb9a5b5bfbd5ab8272"
+    },
+    "proyeksi.R": {
+      "checksum": "91bc4b23bbf6928252a434f22e9370d9"
+    },
+    "pustaka.bib": {
+      "checksum": "82c1cc91cf544d383b6a5ad1b65a6feb"
+    },
+    "references.qmd": {
+      "checksum": "20d3273ad995f344fa1d144ca5d3ecf1"
+    },
+    "regresi linear.docx": {
+      "checksum": "5d8908022a62af82313ecf7f8873ce5d"
+    },
+    "Regresi Linear.R": {
+      "checksum": "57ba546d8c2996cf6d5c12e80fe24b6c"
+    },
+    "Regresi Ordinal.R": {
+      "checksum": "4892f282714bb442bac0a9cd9bde3223"
+    },
+    "regresi.xlsx": {
+      "checksum": "39374bb57648fadfb04a4641aed09b62"
+    },
+    "regresi_poisson_dengan_R_dan_spreadsheets.html": {
+      "checksum": "7dc8d8216fd27fa0a1a4d4cc80122f67"
+    },
+    "regresi_poisson_dengan_R_dan_spreadsheets.qmd": {
+      "checksum": "e040f9a305ff7ce80587ffef7d68039f"
+    },
+    "regresi_poisson_dengan_R_dan_spreadsheets_files/libs/bootstrap/bootstrap-icons.css": {
+      "checksum": "2318f137d201fbf51601fa0faba6bef7"
+    },
+    "regresi_poisson_dengan_R_dan_spreadsheets_files/libs/bootstrap/bootstrap-icons.woff": {
+      "checksum": "1a51dfbe5467607389d603c02a77cd10"
+    },
+    "regresi_poisson_dengan_R_dan_spreadsheets_files/libs/bootstrap/bootstrap.min.css": {
+      "checksum": "1c7ffb07dbe6c87d96aec056a46f79d6"
+    },
+    "regresi_poisson_dengan_R_dan_spreadsheets_files/libs/bootstrap/bootstrap.min.js": {
+      "checksum": "e2b09c06f0e714b6144a6788a28e3950"
+    },
+    "regresi_poisson_dengan_R_dan_spreadsheets_files/libs/clipboard/clipboard.min.js": {
+      "checksum": "15f52a1ee547f2bdd46e56747332ca2d"
+    },
+    "regresi_poisson_dengan_R_dan_spreadsheets_files/libs/quarto-html/anchor.min.js": {
+      "checksum": "91bcf6cd1fd88fec3f109811e5fc3546"
+    },
+    "regresi_poisson_dengan_R_dan_spreadsheets_files/libs/quarto-html/popper.min.js": {
+      "checksum": "3a4a291ccf3f1ea0f82b641542fd3827"
+    },
+    "regresi_poisson_dengan_R_dan_spreadsheets_files/libs/quarto-html/quarto-syntax-highlighting.css": {
+      "checksum": "ab2b9e94a89b131e869fd951d6355545"
+    },
+    "regresi_poisson_dengan_R_dan_spreadsheets_files/libs/quarto-html/quarto.js": {
+      "checksum": "7563d37e31580c9573af5b12aa3779a2"
+    },
+    "regresi_poisson_dengan_R_dan_spreadsheets_files/libs/quarto-html/tippy.css": {
+      "checksum": "ebd6f8ce46a677e1a4f5f8a8317109a9"
+    },
+    "regresi_poisson_dengan_R_dan_spreadsheets_files/libs/quarto-html/tippy.umd.min.js": {
+      "checksum": "d828775275749701b48bd9d958814111"
+    },
+    "rollapply.R": {
+      "checksum": "562339c71cca068dfe7bbcffc80b074a"
+    },
+    "Sampel Hasil Multistage.csv": {
+      "checksum": "221427e555d670df357fe3303474c716"
+    },
+    "selang_kepercayaan.R": {
+      "checksum": "b6e875d29d3840421fbf1fb88ad1d102"
+    },
+    "selang_kepercayaan_3_juni_2025.r": {
+      "checksum": "86444a496fb1523576df7a3041f172bd"
+    },
+    "selang_kepercayaan_3_juni_2025.r.html": {
+      "checksum": "dacf9fae8b2f359d5e98984931b6086a"
+    },
+    "selang_kepercayaan_3_juni_2025.txt": {
+      "checksum": "0d5f62157d3c9cec7d95557ab6e8ba94"
+    },
+    "siapkan_data.qmd": {
+      "checksum": "d2465e44d1a0f5abb83ee74150d9e2ff"
+    },
+    "simulasi uji KS AD CvM Shapiro.R": {
+      "checksum": "0c29566794474f5612d926ce9c737a12"
+    },
+    "summary.qmd": {
+      "checksum": "6b21a250588dde6f79d83bc9a62d55df"
+    },
+    "titik_acak_peta_metopen.R": {
+      "checksum": "ede725ad22a1791ce3b7eeea8152fc05"
+    },
+    "uas_metonum_2024.txt": {
+      "checksum": "3f7a0a29d66fb75e0a047c724a6f155c"
+    },
+    "uas_metonum_2024.txt.html": {
+      "checksum": "699f8f6e7fc8844b615c4e1d78308400"
+    },
+    "vektor1.png": {
+      "checksum": "b21de1f4edb15a25aeaf4f344033806c"
+    },
+    "vektor2.png": {
+      "checksum": "6290b54487d44ac23793edd350fb120b"
+    },
+    "vektor3.png": {
+      "checksum": "c8367445e6d5a73fb8cebf6385f9163f"
+    },
+    "vektor4.png": {
+      "checksum": "d5e4b7e5261b2cf9c9303fb73c88ed47"
+    },
+    "vektor5.png": {
+      "checksum": "561059347c189fd8183e02a401c21818"
+    },
+    "vektor6.png": {
+      "checksum": "e9dcae9ca0f74cfedd8c76bb5f604eae"
+    },
+    "wargakita.csv": {
+      "checksum": "861dd74215719ff2fd5760c22205356f"
+    },
+    "wargakita.xlsx": {
+      "checksum": "952daf0d87a81b625c1c49cedefb721a"
+    }
+  },
+  "users": null
+}
